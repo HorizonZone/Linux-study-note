@@ -1,13 +1,13 @@
 ﻿1.
-操作系统(OS)主要在管理与驱动硬件，因此必须要能够管理内存、管理设备、负责行程管理以及系统调用等等。因此，只要能够让迎检准备妥当的情况，就是一个合格的操作系统。
-Unix的前身是由贝尔实验室的Ken Thompson利用组合语言写成的，后来在1971-1973年间由Dennis Ritchie以C程序语言进行改写，才成为Unix。
+操作系统(OS)主要在管理与驱动硬件，因此必须要能够管理内存、管理设备、负责行程管理以及系统调用等等。因此，只要能够让迎检准备妥当的情况，就是一个普通的操作系统。
+Unix的前身是由贝尔实验室的Ken Thompson利用组合语言写成的，后来在1971-1973年间由Dennis Ritchie以C程序语言进行改写，才成为Unix。
 1977年由Bill Joy释出BSD(Berkeley Software Distribution)，这些称为Unix-like的操作系统。
-1984年由Andrew Tanenbaum开始制作Minix操作系统，该系统可以提供源代码以及软件。
+1984年由Andrew Tanenbaum开始制作Minix操作系统，该系统可以提供源代码以及软件。
 1984年由Richard Stallman提倡GNU计划，倡导自由软件(Free software)，强调软件可以“自由的取得、复制、修改与再发行”，并规范出GPL授权模式，任何GPL(General Public License)软件均不可单纯进贩卖其软件，也不可修改软件授权。
-1991年由芬兰人Linux Torvalds开发出Linux操作系统。简而言之，Linux成功的地方主要在于：Minix(Unix)，GNU，Internet，POSIX及虚拟团队的产生。
-符合Open source理念的授权相当多，比较知名的如Apache/BSD/GPL/MIT等。
-Linux本身就是个最阳春的操作系统，其开发网站设立在http://www.kernel.org，我们亦称Linux操作系统最底层的的数据为“核心(Kernel)”。
-从Linux kernel3.0开始，已经舍弃奇数、偶数的核心版本规划，新的规划使用主线版本(MainLine)为依据，并提供支持版本(longterm)来加强某些功能的持续维护。
+1991年由芬兰人Linux Torvalds开发出Linux操作系统。简而言之，Linux成功的地方主要在于：Minix(Unix)，GNU，Internet，POSIX及虚拟团队的产生。
+符合Open source理念的授权相当多，比较知名的如Apache/BSD/GPL/MIT等。
+Linux本身就是个最普通的操作系统，其开发网站设立在http://www.kernel.org，我们亦称Linux操作系统最底层的的数据为“核心(Kernel)”。
+从Linux kernel3.0开始，已经舍弃奇数、偶数的核心版本规划，新的规划使用主线版本(MainLine)为依据，并提供支持版本(longterm)来加强某些功能的持续维护。
 Linux distributions的组成含有：“Linux Kernel + Free Software + Documentation(Tools) + 可完整安装的程序”所制成的一套完整的系统。
 常见的Linux distributions分类有“商业、社群”分类法，或“RPM、DPKG”分类法。
 学习Linux最好从头有几处开始学习，找到一本适合自己的书籍，加强实作才能学会。
